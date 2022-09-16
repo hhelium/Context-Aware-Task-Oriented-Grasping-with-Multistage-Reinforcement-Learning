@@ -71,10 +71,14 @@ The multistage grasp deplyment model is also compared with planning-based method
 
 ##### Comparsion with Standard PPO
 
+The multistage grasp deplyment model outperforms standard reinforcement model in accuracy, data efficiency, and converge time. 
+
 <img src="./images/single.png" width="70%">
 
 
 ##### Comparsion with Planning-Based Model
+
+The multistage grasp deplyment model outperforms planning-based method under differenet errors model in accuracy, robustness, and generality. 
 
 <img src="./images/plan.png" width="70%">
 
