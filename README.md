@@ -10,8 +10,7 @@ Human instructions are parsed with the Controlled Robot Language, and the "actio
 <img src="./images/framework.png" width="80%">
 
 ### Multistage Reinforcement Learning ####
-Reinforcement learning is structured with Markov Decision Processes (MDP) that can be presented as a tuple of five components M(S, A, p, R, γ). The goal is to find an optimized policy π that maximizes the return G from every state
-<img src="./images/g.png" width="35%">
+Reinforcement learning is structured with Markov Decision Processes (MDP) that can be presented as a tuple of five components M(S, A, p, R, γ). The goal is to find an optimized policy π that maximizes the return G from every state <img src="./images/g.png" width="30%">
 
 For standard reinforcement learning model R is a single funciton provides feedback for an action. In the multistage learning model, we design the reward function as a stage-wise function, each piece corresponding to a stage (sub-task) of the problem
 <img src="./images/multi-r.png" width="30%">
