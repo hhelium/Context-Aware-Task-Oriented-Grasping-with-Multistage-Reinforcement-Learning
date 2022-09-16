@@ -56,16 +56,6 @@ Video1: https://user-images.githubusercontent.com/63925943/190689351-8aa4cd06-2c
 
 Video2: https://user-images.githubusercontent.com/63925943/190689219-273b2330-0a52-4491-abc0-b3e3c41b3a93.MP4
 
-
-
-
-
-
-
-
-
-
-
 #### Grasp results on Real Robot 
 
 A total number of 320 grasping tasks were performed and the average success rate achieved 80.6%.
@@ -76,7 +66,14 @@ Video1: https://user-images.githubusercontent.com/63925943/190689595-aa72e9b2-5f
 
 Video2: https://user-images.githubusercontent.com/63925943/190689611-5fd3997b-cdef-4633-b31e-7492fbfa8e30.mp4
 
+#### Comparsion results
 
+The multistage grasp deplyment model is also compared with planning-based method and standard reinforcement learning, the comparsion results show that the proposed method outperforms the planning-based method and standard reinforcement learning in in accuracy, data efficiency, robustness, and generality.
+
+##### Comparsion with Standard PPO
+
+
+##### Comparsion with Planning-Based Model
 
 
 
