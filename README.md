@@ -4,6 +4,7 @@
 ### Concept ####
 
 
+<img src="./images/concept.png" width="50%">
 
 
 
