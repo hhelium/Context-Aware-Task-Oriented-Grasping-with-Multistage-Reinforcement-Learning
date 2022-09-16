@@ -2,8 +2,7 @@
 
 
 ### Concept ####
-
-
+Perceive object features with multiple sensors attached to the robot arm. Task designations are represented as embeddings extracted from task instructions. Grasp topologies are generated based on object affordance and task designations with a grasp selection network trained with the task-oriented grasping dataset. The predicted grasp topology is deployed adaptively using a multistage reinforcement learning approach.
 <img src="./images/concept.png" width="50%">
 
 
