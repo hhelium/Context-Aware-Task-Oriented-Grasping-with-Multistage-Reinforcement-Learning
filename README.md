@@ -63,7 +63,6 @@ A total number of 320 grasping tasks were performed and the average success rate
 <img src="./images/real.png" width="70%">
 
 Video1: https://user-images.githubusercontent.com/63925943/190689595-aa72e9b2-5f8c-41cd-b417-52e4485ff609.mp4
-
 Video2: https://user-images.githubusercontent.com/63925943/190689611-5fd3997b-cdef-4633-b31e-7492fbfa8e30.mp4
 
 #### Comparsion results
