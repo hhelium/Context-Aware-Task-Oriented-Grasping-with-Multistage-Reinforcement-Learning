@@ -20,7 +20,7 @@ For standard reinforcement learning model R is a single funciton provides feedba
 
 The advance of the proximal policy optimization (PPO) algorithm now can be modeled as 
 
-<img src="./images/advance.png" width="30%">
+<img src="./images/advance.png" width="40%">
 
 and the proximal policy optimization algorithm can be expressed as
 
