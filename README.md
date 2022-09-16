@@ -21,7 +21,6 @@ Some example of the task-oriented grasping dataset used in this work is shown be
 ### Grasp results in simulation environment
 
 Video1: https://user-images.githubusercontent.com/63925943/190689351-8aa4cd06-2cf9-4c75-aa5c-b1ce567b8d7e.MP4
-
 Video2: https://user-images.githubusercontent.com/63925943/190689219-273b2330-0a52-4491-abc0-b3e3c41b3a93.MP4
 
 ### Grasp results on Real Robot 
