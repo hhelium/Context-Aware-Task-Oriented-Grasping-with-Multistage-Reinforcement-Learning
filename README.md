@@ -11,21 +11,20 @@ Human instructions are parsed with the Controlled Robot Language, and the "actio
 <img src="./images/framework.png" width="80%">
 
 
-### Experiments ####
 
-#### Dataset
+### Dataset
 
 Some example of the task-oriented grasping dataset used in this work is shown below
 
 <img src="./images/dataset.png" width="50%">
 
-#### Grasp results in simulation environment
+### Grasp results in simulation environment
 
 Video1: https://user-images.githubusercontent.com/63925943/190689351-8aa4cd06-2cf9-4c75-aa5c-b1ce567b8d7e.MP4
 
 Video2: https://user-images.githubusercontent.com/63925943/190689219-273b2330-0a52-4491-abc0-b3e3c41b3a93.MP4
 
-#### Grasp results on Real Robot 
+### Grasp results on Real Robot 
 
 A total number of 320 grasping tasks were performed and the average success rate achieved 80.6%.
 
