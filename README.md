@@ -1,6 +1,12 @@
 # Context-Aware-Task-Oriented-Grasping-with-Multistage-Reinforcement-Learning
 
 
+### Concept ####
+
+
+
+
+
 ### Context-Aware Task-Oriented Dexterous Grasping Results ####
 
 
