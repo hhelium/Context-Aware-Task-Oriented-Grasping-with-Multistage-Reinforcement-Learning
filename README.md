@@ -7,7 +7,7 @@ Perceive object features with multiple sensors attached to the robot arm. Task d
 
 ### Framework ####
 
-<img src="./images/framework.png" width="50%">
+<img src="./images/framework.png" width="80%">
 
 
 ### Context-Aware Task-Oriented Dexterous Grasping Results ####
