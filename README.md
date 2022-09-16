@@ -53,6 +53,7 @@ A total of 16,000 grasping tasks with eight grasp topologies on random unseen ob
 
 <img src="./images/simu.png" width="70%">
 Video1: https://user-images.githubusercontent.com/63925943/190689351-8aa4cd06-2cf9-4c75-aa5c-b1ce567b8d7e.MP4
+
 Video2: https://user-images.githubusercontent.com/63925943/190689219-273b2330-0a52-4491-abc0-b3e3c41b3a93.MP4
 
 
