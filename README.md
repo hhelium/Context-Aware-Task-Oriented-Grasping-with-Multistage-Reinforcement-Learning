@@ -20,6 +20,12 @@ For standard reinforcement learning model R is a single funciton provides feedba
 
 The advance of the proximal policy optimization (PPO) algorithm now can be modeled as 
 
+<img src="./images/advance.png" width="30%">
+
+and the proximal policy optimization algorithm can be expressed as
+
+<img src="./images/ppo.png" width="30%">
+
 
 
 ### Context-Aware Task-Oriented Dexterous Grasping Results ####
