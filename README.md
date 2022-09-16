@@ -72,8 +72,11 @@ The multistage grasp deplyment model is also compared with planning-based method
 
 ##### Comparsion with Standard PPO
 
+<img src="./images/single.png" width="70%">
+
 
 ##### Comparsion with Planning-Based Model
 
+<img src="./images/plan.png" width="70%">
 
 
