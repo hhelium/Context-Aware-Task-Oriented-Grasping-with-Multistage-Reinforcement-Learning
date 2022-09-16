@@ -6,7 +6,7 @@ Perceive object features with multiple sensors attached to the robot arm. Task d
 <img src="./images/concept.png" width="50%">
 
 ### Framework ####
-
+Human instructions are parsed with the Controlled Robot Language, and the "action" and "object" are extracted. The "object" identifies the target, and then the object affordances are gathered with the MagicHand Platform. The "action" is processed with word2Vec and embeded as 300 dimensional vector. A multi-label MLP network is desigened to map object affordances and task designations to grasp topologies. The grasping task is decomposed into a series of consecutive sub-tasks and deployed with the multistage reinforcement learning mode.
 <img src="./images/framework.png" width="80%">
 
 
