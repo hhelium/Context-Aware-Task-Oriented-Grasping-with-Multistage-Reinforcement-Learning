@@ -29,15 +29,16 @@ and the proximal policy optimization algorithm can be expressed as
 ### Solving a Grasping Task ####
 
 We decompose a grasping task into 4 stages: the initial stage, the approaching stage, the grasping stage, and the termination stage. The initial stage represents the initial configurations of the environment, and every grasping task starts at this stage. In the approaching stage, the robot hand leaves the initial position and approaches the object. Once the robot hand is in the grasp location, the grasping stage begins. In the grasping stage, the movement
-of the arm is limited, and the robotic hand starts moving the fingers and attempting to grasp the object. Three possible situations could terminate the current task, thus three possible termination stages. The first situation could happen both in the approaching stage and the grasping stage when the object is out of the workspace. The second and the third termination stages present the result of the grasping which could be either a success or a failure, and can only happen after the grasping stage. After the termination stage, the system will terminate the current task, reset the environment to initial configurations, and start a new grasping task.
+of the arm is limited, and the robotic hand starts moving the fingers and attempting to grasp the object. Three possible situations could terminate the current task, thus three possible termination stages. The first situation could happen both in the approaching stage and the grasping stage when the object is out of the workspace. The second and the third termination stages present the result of the grasping which could be either a success or a failure, and can only happen after the grasping stage. After the termination stage, the system will terminate the current task, reset the environment to initial configurations, and start a new grasping task
 
 <img src="./images/multistage.png" width="50%">
 
+The stage-wise reward function is modeled as 
+
 <img src="./images/reward.png" width="50%">
 
-<img src="./images/ob.png" width="50%">
-
-
+The observation space includes norm contact force, distace between the hand and the target, the relative position and orientation
+between the hand and the object, and dimensions and shape of the object. Different stages also have different action spaces. In the approaching space the action space include the amount of change of the coordinates of the palm along the x, y, and z axis. In this grasping stage, control of fingers is added to its action space. 
 
 
 ### Context-Aware Task-Oriented Dexterous Grasping Results ####
