@@ -51,7 +51,7 @@ between the hand and the object, and dimensions and shape of the object. Differe
 
 A total of 16,000 grasping tasks with eight grasp topologies on random unseen objects were proformed in the simulation. The accuracy average accuracy was 90.8%
 
-<img src="./images/simu.png" width="50%">
+<img src="./images/simu.png" width="70%">
 
 
 
