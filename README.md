@@ -18,6 +18,7 @@ For standard reinforcement learning model R is a single funciton provides feedba
 
 <img src="./images/multi-r.png" width="30%">
 
+The advance of the proximal policy optimization (PPO) algorithm now can be modeled as 
 
 
 
