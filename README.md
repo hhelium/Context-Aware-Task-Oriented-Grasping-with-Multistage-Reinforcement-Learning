@@ -14,7 +14,7 @@ Human instructions are parsed with the Controlled Robot Language, and the "actio
 
 ### Dataset
 
-Some example of the task-oriented grasping dataset used in this work is shown below
+Some example of the task-oriented grasping dataset used in this work is shown below. The dataset is availabe in the data folder.
 
 <img src="./images/dataset.png" width="50%">
 
